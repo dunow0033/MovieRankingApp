@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|c:\\users\\admin\\source\\repos\\movierankingapp\\movieranking\\movieranking\\controllers\\itemmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|solutionrelative:movieranking\\controllers\\itemmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|c:\\users\\admin\\source\\repos\\movierankingapp\\movieranking\\movieranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|solutionrelative:movieranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|c:\\users\\admin\\source\\repos\\movierankingapp\\movieranking\\movieranking\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|solutionrelative:movieranking\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|c:\\users\\admin\\source\\repos\\movierankingapp\\movieranking\\movieranking\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35277342-AD89-4545-A6BD-85B216152CC4}|MovieRanking\\MovieRanking.csproj|solutionrelative:movieranking\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:951334055:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Controllers\\ItemModelsController.cs",
+              "RelativeDocumentMoniker": "MovieRanking\\Controllers\\ItemModelsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Controllers\\ItemModelsController.cs",
+              "RelativeToolTip": "MovieRanking\\Controllers\\ItemModelsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:46:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Program.cs",
+              "RelativeDocumentMoniker": "MovieRanking\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Program.cs",
+              "RelativeToolTip": "MovieRanking\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:14:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Models\\MovieDBContext.cs",
+              "RelativeDocumentMoniker": "MovieRanking\\Models\\MovieDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Models\\MovieDBContext.cs",
+              "RelativeToolTip": "MovieRanking\\Models\\MovieDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:28:48.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "MovieRanking\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MovieRankingApp\\MovieRanking\\MovieRanking\\Models\\ItemModel.cs",
+              "RelativeToolTip": "MovieRanking\\Models\\ItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:34:10.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
