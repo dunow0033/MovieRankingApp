@@ -275,3 +275,4 @@ C:\Users\Admin\source\repos\MovieRankingApp\MovieRanking\MovieRanking\bin\Debug\
 C:\Users\Admin\source\repos\MovieRankingApp\MovieRanking\MovieRanking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Admin\source\repos\MovieRankingApp\MovieRanking\MovieRanking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Admin\source\repos\MovieRankingApp\MovieRanking\MovieRanking\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\MovieRankingApp\MovieRanking\MovieRanking\obj\Debug\net8.0\MovieRanking.sourcelink.json

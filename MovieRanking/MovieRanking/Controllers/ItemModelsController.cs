@@ -25,7 +25,7 @@ namespace MovieRanking.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ItemModel>>> GetItems()
         {
-            System.Threading.Thread.Sleep(2000);
+            //System.Threading.Thread.Sleep(2000);
             return await _context.Items.ToListAsync();
 
             //return await _context.Items.Where(i => i.ItemType == itemType).ToArray();
